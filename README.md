@@ -1,3 +1,3 @@
 # Dan-Kamzik-Notes
 Notes
-This is a repostory of ntoes pertaining to web development.
+This is a repostory of notes pertaining to web development.
